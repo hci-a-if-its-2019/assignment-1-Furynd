@@ -1,18 +1,151 @@
 # Contextual Inquiry and Analysis
 ## Device/ App/ Website Description
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut commodo molestie libero non dapibus. Praesent malesuada erat dolor, eget varius quam tempor sit amet. Etiam justo nibh, dignissim id lorem vel, posuere aliquet risus. Donec iaculis dui sapien, ac suscipit nunc suscipit non. Vivamus malesuada laoreet mauris eu commodo. Ut vitae nisi vel turpis aliquet ultrices. Cras sollicitudin gravida tortor, non semper dui congue at. Donec sem nisl, tempor eu hendrerit id, blandit id quam. Curabitur et diam quam. Suspendisse vel felis nec velit vulputate eleifend nec eu nisi. Morbi rutrum ex non ante fringilla, in rutrum felis aliquam. In cursus sem et dictum tincidunt. Curabitur id nisi nec nibh convallis vehicula ullamcorper non ex. In interdum lorem a est imperdiet porta.
+
+Institut Teknologi Sepuluh Nopember Academic Information System Website. Integrated with Integra ITS, ITS Information System on integra.its.ac.id
+
 ## Instruction Script
-Nam a eleifend tortor. In eget facilisis est. Suspendisse tincidunt mi lorem, non volutpat libero scelerisque id. Curabitur dui dui, dignissim ac lectus sit amet, sodales gravida ex. Donec mattis, enim vitae sollicitudin rhoncus, diam elit consequat massa, et rutrum magna augue vitae turpis. In eget arcu laoreet, dapibus arcu eget, mattis massa. Aenean fringilla eu dui ut vestibulum. Aenean consequat consectetur massa, eget ornare sapien dignissim vel. Nunc vestibulum tellus ut dolor euismod commodo. Vivamus fringilla urna eget elit vestibulum mattis. Sed nec mattis nisl. Sed sit amet sapien at libero tincidunt ullamcorper. Sed tempus non quam eu rutrum. Nunc fringilla lorem non nibh pulvinar fermentum.
+
+1. Open akademik.its.ac.id and login with student account
+2. Open FRS, and print it
+3. Open Semester Curriculum 
+4. Open Study Transcript and print it
+5. Try creating an active student letter
+6. Try inputting Student comfortness survey
+7. Open Student biography page
+8. See Lecture schedule
+9. Search your rank of IPK
+10. Logout
+
 ## User Description
-Aliquam id lacus leo. Sed elementum lectus non lacus ultricies vehicula. Pellentesque et sollicitudin risus, a imperdiet metus. Vivamus augue ligula, suscipit ac cursus quis, auctor eu nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Praesent rhoncus faucibus mauris. Curabitur bibendum lorem eu neque efficitur, quis luctus mauris aliquet. Praesent posuere, urna eget euismod dictum, elit est vehicula ex, volutpat ultrices augue mi in mauris. Nulla lobortis dolor quis ullamcorper volutpat. Aenean convallis eros vitae justo elementum condimentum. Aenean eros enim, lobortis non imperdiet quis, pulvinar volutpat quam.
+
+Male
+18 years old
+2nd semester 
+D3 Instrumentation Engineering Student
+often accessing SIAKAD
+
 ## Transcript
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse auctor, nunc non gravida maximus, nisl dui lobortis mi, ut maximus ipsum arcu eu quam. Etiam euismod lacus rhoncus lectus dapibus, nec maximus lorem porttitor. Nunc finibus dictum vehicula. Maecenas feugiat turpis vitae maximus placerat. Nunc quis neque vestibulum, rhoncus libero vel, efficitur diam. Donec lobortis turpis condimentum ultrices finibus. Sed sit amet eleifend sapien, non tristique felis. Suspendisse potenti. Maecenas sodales ac dolor ac suscipit. Aenean turpis arcu, placerat et augue vel, lacinia tincidunt ante. Etiam rhoncus nisl vitae sem rhoncus ultrices. Praesent venenatis vulputate diam, iaculis fringilla nisi. Nullam a tellus eget ipsum volutpat mattis fringilla non erat. Donec tincidunt mi sed metus vulputate tristique. Nam in dolor ut ex vestibulum rhoncus in nec lectus.
+
+1. A : udah pernah buka SIAKAD ITS?
+2. B : pernah
+3. A : sering gak?
+4. B : sering
+5. A : yaudah deh, coba dibuka
+6. B : (buka integra.its.ac.id, login, pilih SIAKAD, masuk home)
+7. A : belum pernah ambil matkul ya?
+8. B : belum
+9. A : masih paketan ya
+10. B : iya
+11. A : yaudah coba buka FRS
+12. B : (scroll ke bawah di home, memilih Formulir Rencana Studi)
+13. A : coba di cetak
+14. B : (menge-klik tombol KRSM versi cetak)
+15. B : (menekan ok di modal pemberitahuan)
+16. B : (menekan _ctrl + p_ di keyboard)
+17. B : (memilih save as pdf)
+18. A : oke, lancar ya
+19. A : sekarang coba liat kurikulum
+20. B : (menutup jendela KRSM versi cetak, memncari _kurikulum semester_ pada navbar, dan menekannya)
+21. A : itu kuikulum jurusanmu ya
+22. B : iya
+23. A : coba liat kurikulum jurusan lain bisa ga?
+24. B : kayaknya sih gabisa
+25. A : pernah merhatiin dropdown dikanan atas gak?
+26. B : ini? (menunujuk dropdown jurusan dan fakultas pada kanan atas dengan mouse)
+27. A : bisa di ganti ga?
+28. B : gabisa
+29. A : berarti gunanya buat apa ya?
+30. B : gatau (mencoba memilih _-pilih prodi-_ pada dropdown)
+31. (halaman me-refresh, daftar kurikulumnya hilang)
+32. A : yaudah balik lagi aja
+33. B : (menekan tombol _home_ pada navbar)
+34. A : sekarang coba print transkrip
+35. B : (mencari transkrip di navbar, cukup lama)
+36. B : (menekan print transkrip di tab laporan -> transkrip -> transkrip)
+37. B : (menekan lihat transkrip)
+38. B : (menekan _ctrl + p_ di keyboard)
+39. B : (memilih save as pdf)
+40. A : oke, back lagi.
+41. A : tadi cetaknya bentuk pdf ya?
+42. B : iya
+43. A : coba ganti cetak transkrip formatnya excel
+44. B : (mengganti format di halaman transkrip, menekan _lihat transkrip_)
+45. (muncul notifikasi download file excel)
+45. A : langsung download ya? gmpang berarti
+46. A : yaudah sekarang coba bikin pengajuan surat keterangan mahasiswa aktif
+47. B : (dengan cepat menekan tab _Surat Mahasiswa -> layanan surat mahasiswa_)
+48. B : (memilih SKTM)
+49.  ( muncul form pengajuan dan historis pengjuan)
+50. A : udah pernah buat lewat sini ya?
+51. B : iya pernah.
+52. A : itu bisa langsung dicetak?
+53. B : harus nunggu disetujui dulu
+54. A : oke, sekarang coba input survei
+55. B : survei?
+56. A : survei kepusasan mahasiswa, cari aja
+57. B : oh ini (menekan _lain-lain -> survei kepuasan mahsiswa_)
+58. (halaman survei terbuka, tertulis jenis kelamin perempuan)
+59. B : kok perempuan? wkkwwk
+60. A : wkwkwk sama kok, di punyaku juga begitu. sesat ini wkwk
+61. B : wkwkwkw
+62. A : yaudah balik lagi, coba lihat biodata mahasiswa
+63. B : (kesulitan mencari di navbar, akhirnya pergi ke home)
+64. A : (scrolldown, menekan _biodata mahasiswa_)
+65. (muncul halaman kosong ...)
+66. A : ini gaada atau gabisa diakses ya,
+67. B : menekan tombol back pada browser
+68. A : sekarang coba liat jadwal perkuliahan
+69. B : (tidak menemukan di navbar)
+70. B : (membuka halaman home, menekan daftar perkuliahan mahasiswa)
+71. (muncul halaman _Mata Kuliah Mahasiswa_, tidak ada daftarnya)
+72. itu daftar, coba cari jadwal
+73. B : (back, memilih _Jadwal perkuliahan_)
+74. (muncul halaman jadwal, kosong)
+75. A : itu pilihan semesternya sudah benar semester ini kan?
+76. (terdapat dropdown berisi _genap_ dan _2018_)
+77. B : iya, sudah benar
+78. A : yaudah back, back
+79. A : terakhir coba lihat ranking IPK
+80. B : IPK?
+81. A : iya
+82. (melihat dropdown _laporan -> nilai_, berisi _nilai per mhs, nilai persemester, ranking IPK, ranking IPS_)
+83. B : lihat IPK-nya atau? 
+84. A : ranking IPK
+85. (muncul ranking IPK)
+86. A : bisa nyari dari nama gak?
+87. B : gabisa, paling filter angkatan aja
+88. A : oke, susah berarti kalau mau nyari ya
+89. B : iya
+90. A : nah, coba balik ke home
+91. A : menurutmu lebih mudah cari modul di navbar atau list yang ada di home
+92. B : yang dari sini sih (nenunjuk list pada home)
+93. A : oke, yaudah makasih banyak ya
+
+A = Me
+B = User
+
 ## Models and Annotations
 ### Artifact Model
-![Artifact Model and Annotation](https://picsum.photos/400/300/?random)
+![Artifact Model and Annotation](img/navbar.png)
+![Artifact Model and Annotation](img/biodata.png)
+![Artifact Model and Annotation](img/jadwal.png)
+![Artifact Model and Annotation](img/kurikul.png)
+![Artifact Model and Annotation](img/rank.png)
+![Artifact Model and Annotation](img/srvei.png)
+
 ### Flow Model
-![Flow Model and Annotation](https://picsum.photos/400/300/?random)
+![Flow Model and Annotation](img/flow.png)
+
 ### Cultural Model
-![Cultural Model and Annotation](https://picsum.photos/400/300/?random)
+![Cultural Model and Annotation](img/cultural.png)
+
 ## Do's and Don't's
-Fusce lobortis massa mauris, in aliquam erat aliquet eget. Donec rhoncus venenatis mauris, at commodo odio bibendum ac. Sed consectetur enim justo, vitae maximus eros elementum non. Sed feugiat orci sem, vel faucibus sem aliquet sed. Praesent pulvinar felis eget nisl varius, id lacinia urna pretium. Sed at ornare diam, nec fringilla dolor. In ut gravida sapien, eget varius magna. Morbi lobortis ex eu eleifend finibus. Phasellus eget nulla ullamcorper, ullamcorper purus ac, luctus turpis. Sed volutpat mauris ut erat consectetur, in sagittis erat egestas.
+
+###Do's :
+- Rearrange navigation bar grouping in easier way
+- Remove unneeded features
+- Add search by name in IPK ranking
+
+###Don't's :
+- Give access to unavailable data
+- Show wrong data
