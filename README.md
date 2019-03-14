@@ -141,11 +141,11 @@ B = User
 
 ## Do's and Don't's
 
-###Do's:
+###Do's
 - Rearrange navigation bar grouping in easier way
 - Remove unneeded features
 - Add search by name in IPK ranking
 
-###Don't's:
+###Don't's
 - Give access to unavailable data
 - Show wrong data
