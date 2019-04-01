@@ -149,3 +149,10 @@ B = User
 ### Don't's
 - Give access to unavailable data
 - Show wrong data
+
+# Remarks
+> * Overall you have finished this assignment pretty well. All the parts in this assignment are complete. It's just unfortunate that you submit your work late.
+
+| Working Days | Commits before D | Commits after D | Presentation (80%) | Repo (20%) | Total |
+|:------------:|:----------------:|:---------------:|:------------------:|:----------:|:-----:|
+| 1            | 0                | 5               | 85                 | 53         | 78,6  |
